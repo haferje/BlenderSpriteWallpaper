@@ -7,7 +7,7 @@ import math
 # user-configurable settings
 config = {
 	# location of this file
-	"current_directory": "/home/jason/Dropbox/code/blender/sprite_wallpaper",
+	"current_directory": "/home/user/github/BlenderSpriteWallpaper/sprite_wallpaper",
 	# location of sprite file, relative to current_directory
 	"sprite_file": "images/mario/mario_01.png",
 	# color to exclude when rendering the sprite (r,g,b) or (r,g,b,a)
