@@ -32,7 +32,7 @@ Render
 ------
 The resulting rendered wallpaper image file will render to the same directory as your input sprite image, also with the same filename but appeneded with `_render`, as the default PNG filetype format.
 
-#### Using Blender
+#### Using the Blender UI
 1. Open Blender
 2. Open a view to `Text Editor`
 3. In the view menu `Text > Open Text Block` and select the `sprite_wallpaper.py` file
