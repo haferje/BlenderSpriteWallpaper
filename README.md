@@ -9,6 +9,7 @@ A python script that renders a 3D desktop wallpaper from a small sprite image, u
 Requirements
 ------------
 * Blender software is installed (the free and open source 3D animation suite)
+  * tested with Blender 2.68
 * Python language is installed (the programming language)
 
 Setup
