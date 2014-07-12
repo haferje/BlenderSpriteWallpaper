@@ -2,6 +2,12 @@ BlenderSpriteWallpaper
 ======================
 A python script that renders a 3D desktop wallpaper from a small sprite image, using Blender.
 
+[Example Input Sprite](http://i.imgur.com/KqbcKbx.png)
+
+[Example Output Render](http://i.imgur.com/BYHfydc.png)
+
+[Example Collection Album](http://imgur.com/a/QbolL)
+
 Requirements
 ------------
 * Blender software is installed (the free and open source 3D animation suite)
